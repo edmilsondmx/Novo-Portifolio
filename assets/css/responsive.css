@@ -72,6 +72,10 @@
     .column{
         flex-direction: column;
     }
+    .initial-right-area{
+          margin: auto;
+          margin-top: 20px;
+    }
     .skills-area h2{
         font-size: 40px;
         margin-top: 15px;
