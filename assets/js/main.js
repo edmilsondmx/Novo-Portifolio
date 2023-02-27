@@ -8,7 +8,7 @@
 			autoplay:true,
 			dots:false,
 			nav:true,
-			navText:['<img src="assets/images/arrow-left.png" alt="">','<img src="assets/images/arrow-right.png" alt="">'],
+			navText:['<img src="assets/images/arrow-left.png" height="60" width="42" alt="">','<img src="assets/images/arrow-right.png" height="60" width="42" alt="">'],
 			responsive:{
 				0:{
 					items:1,
